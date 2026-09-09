@@ -194,3 +194,7 @@ This project is intended for local development and learning. Before production u
 - Validate and restrict uploaded files.
 - Change the default admin password.
 - Use HTTPS and secure session settings.
+
+
+
+sunset00x ( github & linkedin)
