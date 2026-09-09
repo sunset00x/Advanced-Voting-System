@@ -10,7 +10,7 @@
 <div class="login-box" style="background-color:#a69f8b ;color:white ; font-size: 22px; font-family:Times">
   	<div class="login-logo" style="background-color: #a69f8b  ;color:white ; font-size: 22px; font-family:Times  ">
   		<b> Online Voting System</b>
-  	</div>
+  	</div>	
   
   	<div class="login-box-body"style="background-color:#a69f8b ;color:white ; font-size: 22px; font-family:Times  " >
     	<p class="login-box-msg" style="color:black ; font-size: 16px; font-family:Times  " >Sign in to start your admin session</p>
